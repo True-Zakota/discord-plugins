@@ -1,0 +1,7 @@
+{
+    "name": "FakeUsername",
+    "description": "Affiche un faux nom/tag sur les profils Discord (visible uniquement par toi).",
+    "authors": [{ "name": "custom", "id": "0" }],
+    "main": "index.js",
+    "version": "1.0.0"
+}
